@@ -1,0 +1,17 @@
+{
+    "name": "dervysperez/biblioteca",
+    "autoload": {
+        "psr-4": {
+            "Dervysperez\\Biblioteca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DervysDigital",
+            "email": "orangeldelgado1911@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.9"
+    }
+}
